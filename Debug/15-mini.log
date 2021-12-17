@@ -1,0 +1,8 @@
+﻿  15-mini.cpp
+  Employee.cpp
+  Manager.cpp
+  Programmer.cpp
+  Teseter.cpp
+  Generating Code...
+D:\buổi 15-tổng hợp C++\15-mini\15-mini\15-mini.cpp(56): warning C4715: 'finByName': not all control paths return a value
+  15-mini.vcxproj -> D:\buổi 15-tổng hợp C++\15-mini\Debug\15-mini-project.exe
